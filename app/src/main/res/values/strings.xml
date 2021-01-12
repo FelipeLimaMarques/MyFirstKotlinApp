@@ -2,4 +2,6 @@
     <string name="app_name">My First App</string>
     <string name="inc_button_text">Increment</string>
     <string name="dec_button_text">Decrement</string>
+    <string name="input_button_text">Change</string>
+    <string name="label">Value</string>
 </resources>
